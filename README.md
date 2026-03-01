@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<img align="right" height="203" src="https://giffiles.alphacoders.com/221/221253.gif"  />
+<img align="right" height="250" src="https://giffiles.alphacoders.com/221/221253.gif"  />
 
 ###
 
